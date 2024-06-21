@@ -1,6 +1,6 @@
 I am Shanmugapriyan. 
 
-##A little about me
+## A little about me
 
 - 🎓 **Recent Graduate:** Completed Masters in Software Engineering (May 2024)
 - 💻 **Experienced Professional:** 3 years of experience as a Senior Software Engineer
