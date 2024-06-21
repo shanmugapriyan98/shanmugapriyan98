@@ -1,5 +1,3 @@
-## Hi there 👋
-
 I am Shanmugapriyan. 
 
 A little about me:
@@ -8,7 +6,7 @@ A little about me:
 - Passionate to work on new fields on each passing day and be in a constant upskilling journey
 - I'm a moviebuff. I follow Hollywood, Kollywood, Tollywood, Bollywood, Mollywood (last 4 are industries in Indian Cinema XD)
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=shanmugapriyan98)
 <!--
 **shanmugapriyan98/shanmugapriyan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
