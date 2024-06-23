@@ -11,8 +11,12 @@ I am Shanmugapriyan.
 ## I’m currently working on:
 
 - 📘 Learning NestJS
-- 🧩 Leetcoding
+- 🧩 Leetcoding 
 - 🛠️ System Design
+
+## Leetcode Stats:
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/shanmu2598?theme=light&ext=heatmap)](https://leetcode.com/shanmu2598)
 
 ## Let's Connect:
 
