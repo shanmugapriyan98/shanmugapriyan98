@@ -18,6 +18,11 @@ I am Shanmugapriyan.
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/shanmu2598?theme=light&ext=heatmap)](https://leetcode.com/shanmu2598)
 
+## Github Stats:
+(Trying to be more productive here!!)
+
+![shanmugapriyan98's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shanmugapriyan98&theme=vue-dark&hide_border=true)
+
 ## Let's Connect:
 
 I'm open to discussing new projects, ideas, and collaboration opportunities. 
@@ -28,6 +33,7 @@ Feel free to reach out!
 
 
 ![](https://komarev.com/ghpvc/?username=shanmugapriyan98)
+
 <!--
 **shanmugapriyan98/shanmugapriyan98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
