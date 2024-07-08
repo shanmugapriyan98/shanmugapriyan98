@@ -13,6 +13,7 @@ I am Shanmugapriyan.
 - 📘 Learning NestJS
 - 🧩 Leetcoding 
 - 🛠️ System Design
+- 🤔 Learning foundations of AI. 
 
 ## Leetcode Stats:
 
