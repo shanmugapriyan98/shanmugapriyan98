@@ -10,9 +10,9 @@ I am Shanmugapriyan.
 
 ## I’m currently working on:
 
-- 📘 Learning NestJS
+- 🛠️ Building backend for RoomieHub
+- 📘 System Design
 - 🧩 Leetcoding 
-- 🛠️ System Design
 - 🤔 Learning foundations of AI. 
 
 ## Leetcode Stats:
